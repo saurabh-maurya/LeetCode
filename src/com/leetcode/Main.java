@@ -1,9 +1,6 @@
 package com.leetcode;
 
-import com.leetcode.problems.BinarySearch;
-import com.leetcode.problems.ContainsDuplicate;
-import com.leetcode.problems.FirstBadVersion;
-import com.leetcode.problems.MaximumSubarray;
+import com.leetcode.problems.*;
 
 public class Main {
 
@@ -22,9 +19,24 @@ public class Main {
 //        System.out.println(binarySearch.implement());
 
         // FirstBadVersion
-        FirstBadVersion firstBadVersion = new FirstBadVersion();
-        System.out.println(firstBadVersion.implement());
+//        FirstBadVersion firstBadVersion = new FirstBadVersion();
+//        System.out.println(firstBadVersion.implement());
 
+        // SquareOfSortedArray
+//        SquareOfSortedArray squareOfSortedArray = new SquareOfSortedArray();
+//        squareOfSortedArray.implement();
+
+        // RotateArray
+//        RotateArray rotateArray = new RotateArray();
+//        rotateArray.implement();
+
+        // TwoSum
+//        TwoSum twoSum = new TwoSum();
+//        twoSum.implement();
+
+        // MergeSortedArrays
+        MergeSortedArrays mergeSortedArrays =new MergeSortedArrays();
+        mergeSortedArrays.implement();
 
     }
 }
