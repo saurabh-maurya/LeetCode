@@ -25,6 +25,12 @@ You are given two integer arrays nums1 and nums2, sorted in non-decreasing order
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
+### 121. BestTimeToBuySellStock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
+You are given an array prices where prices[i] is the price of a given stock on the ith day.
+You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+
 ### 167. TwoSum_2
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ <br>
 Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= first < second <= numbers.length.
