@@ -3,7 +3,7 @@ package com.leetcode.problems;
 import java.util.Arrays;
 
 public class RotateArray {
-    void rotate(int[] nums, int k) {
+    static void rotate(int[] nums, int k) {
         int[] result = new int[nums.length];
         for(int i=0; i<nums.length; i++) {
             if(i+k < nums.length){
@@ -17,7 +17,7 @@ public class RotateArray {
         }
         System.out.println(Arrays.toString(nums));
     }
-    public void implement(){
+    public static void main(String[] args){
         int[] nums = {1,2,3,4,5,6,7};
         int k = 3;
         rotate(nums, k);

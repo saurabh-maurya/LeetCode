@@ -1,8 +1,7 @@
 package com.leetcode.problems;
 
 public class MaximumSubarray {
-    public int implement() {
-        int[] nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+    static int maxSubarray(int[] nums) {
         int currentMax = nums[0];
         int overallMax= nums[0];
         for(int i=1; i<nums.length; i++){
@@ -10,5 +9,9 @@ public class MaximumSubarray {
             overallMax = Math.max(overallMax, currentMax);
         }
         return overallMax;
+    }
+    public static void main(String[] args){
+        int[] nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+        System.out.println(maxSubarray(nums));
     }
 }

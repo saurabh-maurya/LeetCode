@@ -5,38 +5,15 @@ import com.leetcode.problems.*;
 public class Main {
 
     public static void main(String[] args) {
-
-        // ContainsDuplicate
-//        ContainsDuplicate containsDuplicate = new ContainsDuplicate();
-//        System.out.println(containsDuplicate.implement());
-
-        // MaximumSubarray
-//        MaximumSubarray maximumSubarray = new MaximumSubarray();
-//        System.out.println(maximumSubarray.implement());
-
-        // BinarySearch
-//        BinarySearch binarySearch = new BinarySearch();
-//        System.out.println(binarySearch.implement());
-
-        // FirstBadVersion
-//        FirstBadVersion firstBadVersion = new FirstBadVersion();
-//        System.out.println(firstBadVersion.implement());
-
-        // SquareOfSortedArray
-//        SquareOfSortedArray squareOfSortedArray = new SquareOfSortedArray();
-//        squareOfSortedArray.implement();
-
-        // RotateArray
-//        RotateArray rotateArray = new RotateArray();
-//        rotateArray.implement();
-
-        // TwoSum
-//        TwoSum twoSum = new TwoSum();
-//        twoSum.implement();
-
-        // MergeSortedArrays
-        MergeSortedArrays mergeSortedArrays =new MergeSortedArrays();
-        mergeSortedArrays.implement();
-
+        // write your code here
+        System.out.println("-----------------------------------------------------");
+        System.out.println("Hi, Welcome to the LEETCODE SOLUTION");
+        System.out.println("There is main method attached to every problem, so that each problem can be run Separately");
+        System.out.println("ENJOY CODING");
+        System.out.println("-----------------------------------------------------");
+        System.out.println("Author - SAURABH MAURYA");
+        System.out.println("GitHub - https://github.com/saurabh-maurya/");
+        System.out.println("LinkedIn - https://www.linkedin.com/in/saurabhmaurya-/");
+        System.out.println("-----------------------------------------------------");
     }
 }

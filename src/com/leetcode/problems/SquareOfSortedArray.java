@@ -7,7 +7,7 @@ return an array of the squares of each number sorted in non-decreasing order
 
 import java.util.Arrays;
 public class SquareOfSortedArray {
-    int[] sortedSquares(int[] nums) {
+    static int[] sortedSquares(int[] nums) {
         for(int i=0; i<nums.length; i++){
             nums[i] *= nums[i];
         }
@@ -15,7 +15,7 @@ public class SquareOfSortedArray {
         return(nums);
     }
 
-    public void implement() {
+    public static void main(String[] args) {
         int[] a= {-4, 1, 2, -3};
         System.out.println(Arrays.toString(sortedSquares(a)));
     }

@@ -9,15 +9,14 @@ Implement a function to find the first bad version. You should minimize the numb
 */
 
 public class FirstBadVersion {
-    boolean isBadVersion(int badVersion){
+    static boolean isBadVersion(int badVersion){
         if(badVersion == 4){
             return true;
         }
         return false;
     }
 
-    public int implement() {
-        int n = 5;
+    static int firstBadVer(int n) {
         int left = 1;
         int right = n;
         while (right >= left){
@@ -29,5 +28,9 @@ public class FirstBadVersion {
             }
         }
         return isBadVersion(left)?left:left+1;
+    }
+    public static void main(String[] args){
+        int n = 5;
+        System.out.println(firstBadVer(n));
     }
 }

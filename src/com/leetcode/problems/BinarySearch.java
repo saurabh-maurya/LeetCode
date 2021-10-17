@@ -7,7 +7,7 @@ You must write an algorithm with O(log n) runtime complexity.
  */
 
 public class BinarySearch {
-    int binarySch(int[] nums, int left, int right, int target) {
+    static int binarySch(int[] nums, int left, int right, int target) {
         if(right >= left){
             int mid = (right - left)/2 + left;
             if(nums[mid] == target) {
@@ -19,9 +19,9 @@ public class BinarySearch {
         }
         return -1;
     }
-    public int implement() {
+    public static void main(String[] args){
         int[] nums = { -1, 0, 3, 5, 9, 12 };
         int target = 9;
-        return binarySch(nums, 0, nums.length-1, target);
+        System.out.println(binarySch(nums, 0, nums.length-1, target));
     }
 }

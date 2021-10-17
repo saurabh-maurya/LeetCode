@@ -22,10 +22,14 @@ Given an integer array nums, find the contiguous subarray (containing at least o
 ### 88. MergeSortedArrays
 https://leetcode.com/problems/merge-sorted-array/ <br>
 You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
-
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
-
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
+
+### 167. TwoSum_2
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ <br>
+Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= first < second <= numbers.length.
+Return the indices of the two numbers, index1 and index2, as an integer array [index1, index2] of length 2.
+The tests are generated such that there is exactly one solution. You may not use the same element twice.
 
 ### 189. RotateArray
 https://leetcode.com/problems/rotate-array/ <br>
@@ -46,6 +50,15 @@ which causes all the following ones to be bad.
 You are given an API bool isBadVersion(version) which returns whether version is bad. 
 Implement a function to find the first bad version. 
 You should minimize the number of calls to the API.
+
+### 283. MoveZeroes
+https://leetcode.com/problems/move-zeroes/ <br>
+Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+Note that you must do this in-place without making a copy of the array.
+
+### 350. ArrayIntersection_2
+https://leetcode.com/problems/intersection-of-two-arrays-ii/ <br>
+Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
 
 ### 704. BinarySearch
 https://leetcode.com/problems/binary-search/ <br>

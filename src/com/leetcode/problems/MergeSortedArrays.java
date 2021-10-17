@@ -3,7 +3,7 @@ package com.leetcode.problems;
 import java.util.Arrays;
 
 public class MergeSortedArrays {
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
+    static void merge(int[] nums1, int m, int[] nums2, int n) {
         int insertIndex = m+n-1;
         int nums1Index = m-1,nums2Index = n-1;
 
@@ -21,7 +21,7 @@ public class MergeSortedArrays {
         System.out.println(Arrays.toString(nums1));
 
     }
-    public void implement(){
+    public static void main(String[] args){
         int[] nums1 = {1,2,3,0,0,0};
         int m = 3;
         int[] nums2 = {2,5,6};

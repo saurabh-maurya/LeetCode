@@ -5,10 +5,7 @@ If not, return the index where it would be if it were inserted in order.
 You must write an algorithm with O(log n) runtime complexity.
 */
 public class SearchInsertPosition {
-    public int implement(){
-        int[] nums = { 1, 3, 5, 6 };
-        int target = 5;
-
+    static int searchInsPos(int[] nums, int target){
         int left = 0;
         int right = nums.length - 1;
         while (right >= left){
@@ -22,5 +19,10 @@ public class SearchInsertPosition {
             }
         }
         return left;
+    }
+    public static void main(String[] args){
+        int[] nums = { 1, 3, 5, 6 };
+        int target = 5;
+        System.out.println(searchInsPos(nums, target));
     }
 }
