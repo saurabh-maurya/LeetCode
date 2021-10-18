@@ -25,6 +25,10 @@ You are given two integer arrays nums1 and nums2, sorted in non-decreasing order
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
+### 118. PascalTriangle
+https://leetcode.com/problems/pascals-triangle/ <br>
+Given an integer numRows, return the first numRows of Pascal's triangle.
+
 ### 121. BestTimeToBuySellStock
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
@@ -62,9 +66,19 @@ https://leetcode.com/problems/move-zeroes/ <br>
 Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 Note that you must do this in-place without making a copy of the array.
 
+### 344. ReverseString
+https://leetcode.com/problems/reverse-string/ <br>
+Write a function that reverses a string. The input string is given as an array of characters s.
 ### 350. ArrayIntersection_2
 https://leetcode.com/problems/intersection-of-two-arrays-ii/ <br>
-Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
+Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays, and you may return the result in any order.
+
+### 566. ReshapeMatrix
+https://leetcode.com/problems/reshape-the-matrix/ <br>
+In MATLAB, there is a handy function called reshape which can reshape an m x n matrix into a new one with a different size r x c keeping its original data.
+You are given an m x n matrix mat and two integers r and c representing the number of rows and the number of columns of the wanted to be reshaped matrix.
+The reshaped matrix should be filled with all the elements of the original matrix in the same row-traversing order as they were.
+If the reshape operation with given parameters is possible and legal, output the new reshaped matrix; Otherwise, output the original matrix
 
 ### 704. BinarySearch
 https://leetcode.com/problems/binary-search/ <br>
