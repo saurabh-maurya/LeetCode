@@ -73,6 +73,10 @@ Write a function that reverses a string. The input string is given as an array o
 https://leetcode.com/problems/intersection-of-two-arrays-ii/ <br>
 Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays, and you may return the result in any order.
 
+### 557. Reverse Words in a String III
+https://leetcode.com/problems/reverse-words-in-a-string-iii/ <br>
+Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+
 ### 566. ReshapeMatrix
 https://leetcode.com/problems/reshape-the-matrix/ <br>
 In MATLAB, there is a handy function called reshape which can reshape an m x n matrix into a new one with a different size r x c keeping its original data.
