@@ -9,15 +9,29 @@ You may assume that each input would have exactly one solution,
 and you may not use the same element twice.
 You can return the answer in any order.
 
+### 19. RemoveNthNodeFromList
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/ <br>
+Given the head of a linked list, remove the nth node from the end of the list and return its head.
+
 ### 35. SearchInsertPosition
 https://leetcode.com/problems/search-insert-position/ <br>
 Given a sorted array of distinct integers and a target value, return the index if the target is found.
 If not, return the index where it would be if it were inserted in order.
 You must write an algorithm with O(log n) runtime complexity.
 
+### 36. ValidSudoku
+https://leetcode.com/problems/valid-sudoku/ <br>
+Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following
+
 ### 53. MaximumSubarray
 https://leetcode.com/problems/maximum-subarray/ <br>
 Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+### 74. Search2DMatrix
+https://leetcode.com/problems/search-a-2d-matrix/ <br>
+Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:
+Integers in each row are sorted from left to right.
+The first integer of each row is greater than the last integer of the previous row.
 
 ### 88. MergeSortedArrays
 https://leetcode.com/problems/merge-sorted-array/ <br>
@@ -88,6 +102,11 @@ If the reshape operation with given parameters is possible and legal, output the
 https://leetcode.com/problems/binary-search/ <br>
 Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
 You must write an algorithm with O(log n) runtime complexity.
+
+### 876. MiddleOfList
+https://leetcode.com/problems/middle-of-the-linked-list/ <br>
+Given the head of a singly linked list, return the middle node of the linked list.
+If there are two middle nodes, return the second middle node.
 
 ### 977. SquareOfSortedArray
 https://leetcode.com/problems/squares-of-a-sorted-array/ <br>
