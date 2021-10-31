@@ -4,9 +4,12 @@
 *1. [ Two Sum ](https://leetcode.com/problems/two-sum/)* - [ solution ](/src/com/leetcode/problems/TwoSum.java)<br>
 *3. [ Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters)* - [ solution ](/src/com/leetcode/problems/LongestSubstringWithoutRepeatingCharacters.java) <br>
 *19. [ Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)* - [ solution ](/src/com/leetcode/problems/RemoveNthNodeFromList.java) <br>
+*26. [ Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)* - [ solution ](/src/com/leetcode/problems/RemoveDuplicatesFromSortedArray.java)<br>
+*27. [ Remove Element ](https://leetcode.com/problems/remove-element/)* - [ solution ](/src/com/leetcode/problems/RemoveElement.java)<br>
 *35. [ Search Insert Position ](https://leetcode.com/problems/search-insert-position/)* - [ solution ](/src/com/leetcode/problems/SearchInsertPosition.java) <br>
 *36. [ Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/)* - [ solution ](/src/com/leetcode/problems/ValidSudoku.java) <br>
 *53. [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/)* - [ solution ](/src/com/leetcode/problems/MaximumSubarray.java) <br>
+*66. [ Plus One ](https://leetcode.com/problems/plus-one/)* - [ solution ](/src/com/leetcode/problems/PlusOne.java)<br>
 *74. [ Search a 2D Matrix ](https://leetcode.com/problems/search-a-2d-matrix/)* - [ solution ](/src/com/leetcode/problems/Search2DMatrix.java) <br>
 *88. [ Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)* - [ solution ](/src/com/leetcode/problems/MergeSortedArrays.java) <br>
 *118. [ Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/)* - [ solution ](/src/com/leetcode/problems/PascalTriangle.java) <br>
