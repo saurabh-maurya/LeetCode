@@ -3,6 +3,7 @@
 
 *1. [ Two Sum ](https://leetcode.com/problems/two-sum/)* - [ solution ](/src/com/leetcode/problems/TwoSum.java)<br>
 *3. [ Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters)* - [ solution ](/src/com/leetcode/problems/LongestSubstringWithoutRepeatingCharacters.java) <br>
+*11. [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/)* - [ solution ](/src/com/leetcode/problems/ContainerWithMostWater.java)<br>
 *19. [ Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)* - [ solution ](/src/com/leetcode/problems/RemoveNthNodeFromList.java) <br>
 *26. [ Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)* - [ solution ](/src/com/leetcode/problems/RemoveDuplicatesFromSortedArray.java)<br>
 *27. [ Remove Element ](https://leetcode.com/problems/remove-element/)* - [ solution ](/src/com/leetcode/problems/RemoveElement.java)<br>
@@ -17,11 +18,15 @@
 *167. [ Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)* - [ solution ](/src/com/leetcode/problems/TwoSum_2.java) <br>
 *189. [ Rotate Array ](https://leetcode.com/problems/rotate-array/)* - [ solution ](/src/com/leetcode/problems/RotateArray.java) <br>
 *217. [ Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/)* - [ solution ](/src/com/leetcode/problems/ContainsDuplicate.java) <br>
+*226. [ Power of Three ](https://leetcode.com/problems/power-of-three)* - [ solution ](/src/com/leetcode/problems/PowerOfThree.java)<br>
+*231. [ Power of Two ](https://leetcode.com/problems/power-of-two/)* - [ solution ](/src/com/leetcode/problems/PowerOfTwo.java)<br>
+*242. [ Power of Four ](https://leetcode.com/problems/power-of-four/)* - [ solution ](/src/com/leetcode/problems/PowerOfFour.java)<br>
 *278. [ First Bad Version ](https://leetcode.com/problems/first-bad-version/)* - [ solution ](/src/com/leetcode/problems/FirstBadVersion.java) <br>
 *283. [ Move Zeroes ](https://leetcode.com/problems/move-zeroes/)* - [ solution ](/src/com/leetcode/problems/MoveZeroes.java) <br>
 *344. [ Reverse String ](https://leetcode.com/problems/reverse-string/)* - [ solution ](/src/com/leetcode/problems/ReverseString.java) <br>
 *350. [ Intersection of Two Arrays II
 ](https://leetcode.com/problems/intersection-of-two-arrays-ii/)* - [ solution ](/src/com/leetcode/problems/ArrayIntersection_2.java) <br>
+*509. [ Fibonacci Number ](https://leetcode.com/problems/fibonacci-number/) - [ solution ](/src/com/leetcode/problems/FibonacciNumber.java)
 *557. [ Reverse Words in a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/)* - [ solution ](/src/com/leetcode/problems/ReverseWords.java) <br>
 *566. [ Reshape the Matrix ](https://leetcode.com/problems/reshape-the-matrix/)* - [ solution ](/src/com/leetcode/problems/ReshapeMatrix.java) <br>
 *567. [ Permutation in String ](https://leetcode.com/problems/permutation-in-string/)* - [ solution ](/src/com/leetcode/problems/PermutationInString.java) <br>
