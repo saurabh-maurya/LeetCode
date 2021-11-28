@@ -26,6 +26,7 @@
 *344. [ Reverse String ](https://leetcode.com/problems/reverse-string/)* - [ solution ](/src/com/leetcode/problems/ReverseString.java) <br>
 *350. [ Intersection of Two Arrays II
 ](https://leetcode.com/problems/intersection-of-two-arrays-ii/)* - [ solution ](/src/com/leetcode/problems/ArrayIntersection_2.java) <br>
+*412. [ Fizz Buzz ](https://leetcode.com/problems/fizz-buzz/)* - [ solution ](/src/com/leetcode/problems/FizzBuzz.java) <br>
 *509. [ Fibonacci Number ](https://leetcode.com/problems/fibonacci-number/)* - [ solution ](/src/com/leetcode/problems/FibonacciNumber.java)<br>
 *557. [ Reverse Words in a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/)* - [ solution ](/src/com/leetcode/problems/ReverseWords.java) <br>
 *566. [ Reshape the Matrix ](https://leetcode.com/problems/reshape-the-matrix/)* - [ solution ](/src/com/leetcode/problems/ReshapeMatrix.java) <br>
